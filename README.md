@@ -22,10 +22,11 @@ View Attendance:
 * Administrators can view attendance logs either through the interface or by accessing the generated CSV file.
   
 **Dependencies**
-OpenCV: For capturing and processing video feeds.
-FaceRecognition: For face recognition
+* OpenCV: For capturing and processing video feeds.
+* FaceRecognition: For face recognition
 
 **Acknowledgments**
+
 This project was developed as a final project for the CS50 course.
 Special thanks to the CS50 staff for their guidance and support throughout the development process.
 
