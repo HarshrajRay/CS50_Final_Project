@@ -1,7 +1,9 @@
 **Live Attendance Project**
+
 This project is a CS50 final project aimed at automating attendance tracking using machine learning to identify faces in real-time.
 
 **Overview**
+
 The Live Attendance Project leverages machine learning algorithms to detect and recognize faces captured by a camera feed.
 It provides a streamlined solution for attendance management, eliminating the need for manual roll calls or sign-ins.
 This project offers a user-friendly interface for both administrators and participants, ensuring smooth operation and accurate attendance records.
